@@ -1,5 +1,5 @@
 - 👋 Hi, I’m tuce
-- 👀 I’m interested in quantum science and technology
+- 👀 I’m interested in
 - 🌱 I’m currently learning quantum computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/tuce
